@@ -1,0 +1,35 @@
+name: Worker
+version: "1"
+main: br.com.gmfonseca.mine.autominer.main.Main
+author: GMFonseca
+
+commands:
+  worker:
+    description: Get own informations about miner's amount and others.
+    aliases: []
+    usage: |
+    ##
+  getminer:
+    description: Used to place a miner if you have enough.
+    aliases: []
+    usage: |
+  placeminer:
+    description: Used to place a miner if you have enough.
+    aliases: []
+    usage: |
+    ##
+  giveminer:
+    description: Used to increase a specific player's amount
+    aliases: []
+    usage: |
+    ##
+  debug:
+    description: Used only for a simple system debug.
+    aliases: []
+    usage: |
+    ##debug
+  listminer:
+    description: Get own informations about miner's amount and others.
+    aliases: []
+    usage: |
+    ##debug

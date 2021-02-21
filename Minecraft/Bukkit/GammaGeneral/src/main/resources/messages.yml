@@ -1,0 +1,23 @@
+#
+# %name% = PLAYER NAME
+# %message% = PLAYER MESSAGE
+# %kitname% = KIT NAME
+# %tagname% = TAG NAME
+#
+
+Server:
+  name: "&6&lGENERAL GAMMA"
+  join: "&f[&a&l+&f] %name"
+  quit: "&f[&c&l-&f] %name"
+  chatFormat: "%name &a>&f %message"
+
+Personal:
+  Command:
+    unknown: "&c&lERROR:&c Comando desconhecido."
+    noPerm: "&c&lERROR&c: Sem permissao"
+    noPermCmd: "&c&lERROR&c: Sem permissao para o comando /&o%cmd%"
+    noPermKit: "&c&lERROR&c: Voce nao possui o kit %kitname%"
+    noPermTag: "&c&lERROR&c: Sem permissao para a tag %tagname%"
+    getKit: "&aKit &l%kitname% &aselecionado com sucesso"
+
+

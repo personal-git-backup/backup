@@ -1,0 +1,38 @@
+name: GeneralGamma
+version: 0.1-ALPHA
+description: Plugin de estudos
+author: Gabriel Fonseca
+main: br.com.gmfonseca.main.Main
+
+commands:
+  kits:
+  #    permission: gamma.kits
+  warps:
+  #    permission: gamma.warps
+  pvp:
+  #    permission: gamma.kit.pvp
+  kangaroo:
+  #    permission: gamma.kit.kangaroo
+  flash:
+  #    permission: gamma.kit.flash
+  fisherman:
+  #    permission: gamma.kit.fisherman
+  tag:
+  #    permission: gamma.tag.%tagname
+  setspawn:
+  #    permission: gamma.warp.setspawn
+  spawn:
+  #    permission: gamma.warp.spawn
+  admin:
+  #    permission: gamma.staff.admin
+  sc:
+  #    permission: gamma.staff.chat
+  scon:
+  #    permission: gamma.staff.chat
+  scoff:
+  #    permission: gamma.staff.chat
+  getminer:
+  #    permission: gamma.miner
+  acompanhar:
+  #    permission: gamma.miner
+  world:

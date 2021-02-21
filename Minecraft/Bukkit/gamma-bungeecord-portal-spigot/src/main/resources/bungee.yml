@@ -1,0 +1,3 @@
+name: GammaBungeecordPortal
+version: ${project.version}
+main: br.com.gmfonseca.bungeecordportal.BungeeCordPortal
